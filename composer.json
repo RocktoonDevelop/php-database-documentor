@@ -1,0 +1,11 @@
+{
+    "name": "rocktoondevelop/php-database-documentor",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Seiki koga",
+            "email": "seiki.koga@rocktoon.co.jp"
+        }
+    ],
+    "require": {}
+}
