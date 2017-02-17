@@ -1,11 +1,12 @@
 {
     "name": "rocktoondevelop/php-database-documentor",
-    "type": "project",
-    "authors": [
-        {
-            "name": "Seiki koga",
-            "email": "seiki.koga@rocktoon.co.jp"
-        }
-    ],
-    "require": {}
+    "description": "Database Documentation Generator for PHP",
+    "license": "MIT",
+    "autoload": {},
+    "autoload-dev": {},
+    "require": {
+        "twbs/bootstrap": "3.3.*",
+        "twig/twig": "^2.0"
+    },
+    "require-dev": {}
 }
